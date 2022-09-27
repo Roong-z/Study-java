@@ -13,5 +13,17 @@ public class 문제1 {
         System.out.println(age);
         System.out.println(ageAfter10);
         System.out.println(ageAfter20);
+
+        System.out.println(2%5);
+
+        int allEgg = 277;
+        byte oneEgg = 30;
+
+        long 몇판 = allEgg/oneEgg;
+        long 나머지 = allEgg%oneEgg;
+
+        System.out.println(몇판);
+        System.out.println(나머지);
+
     }
 }
