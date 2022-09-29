@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e868c60-3fb7-4494-83f3-5b15ed5b17a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/price.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringCompare">
+  <component name="RunManager" selected="Application.price">
     <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="If" />
-      <module name="Study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input" />
       <module name="Study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="price" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="price" />
+      <module name="Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.price" />
         <item itemvalue="Application.StringCompare" />
         <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.NestedIf" />
         <item itemvalue="Application.If" />
-        <item itemvalue="Application.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +104,7 @@
       <workItem from="1664352602143" duration="1930000" />
       <workItem from="1664463589345" duration="3754000" />
       <workItem from="1664467387283" duration="4000" />
-      <workItem from="1664467421632" duration="864000" />
+      <workItem from="1664467421632" duration="1753000" />
     </task>
     <servers />
   </component>
